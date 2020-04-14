@@ -1,4 +1,4 @@
-## Cálculo de IMC
+## Cálculo de IMC (constantes)
 
 ---
 
