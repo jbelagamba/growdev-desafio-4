@@ -20,5 +20,5 @@ if (imc >= 30) {
   console.log(`${nome}, você não está acima do peso.`);
 }
 
-//Exibe mensagem very true
+//Exibe mensagem very very true
 console.log(`${nome} nunca falha. Amém!`);
