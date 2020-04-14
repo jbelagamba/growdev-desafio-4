@@ -18,7 +18,7 @@ Comece criando constantes para armazenar o nome , peso e altura de uma pessoa, p
 
 A partir desses dados armazene em uma constante chamada imc o cálculo do índice de massa corporal definido pela fórmula abaixo:
 
-ˋpeso / (altura * altura);ˋ
+ˋˋˋpeso / (altura * altura);ˋˋˋ
 
 ---
 
